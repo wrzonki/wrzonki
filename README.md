@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paweł Wrzosek</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-<img src="https://github.com/wrzonki/wrzonki/blob/master/kitten.gif"/>
+<div align="center">
+  <img src="https://github.com/wrzonki/wrzonki/blob/master/kitten.gif"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrzonki" alt="wrzonki" /> </p>
 
