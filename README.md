@@ -7,11 +7,11 @@
   </p>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrzonki&layout=compact&hide=html" alt="wrzonki" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrzonki&theme=tokyonight" alt="wrzonki" />
   </p>
 
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wrzonki&show_icons=true" alt="wrzonki" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wrzonki&show_icons=true&theme=tokyonight" alt="wrzonki" />
   </p>
 
   <p align="center">
